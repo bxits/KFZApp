@@ -31,3 +31,9 @@ C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVV
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\CommonTypes\obj\Debug\CommonTypes.csproj.CoreCompileInputs.cache
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\CommonTypes\obj\Debug\CommonTypes.dll
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\CommonTypes\obj\Debug\CommonTypes.csproj.AssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\CommonTypes\obj\Debug\CommonTypes.csproj.CoreCompileInputs.cache
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\CommonTypes\obj\Debug\CommonTypes.pdb

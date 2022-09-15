@@ -125,3 +125,19 @@ C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVV
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\CommonTypes.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\Mk.Log.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\MySql.Data.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\Npgsql.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\Mono.Security.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\CommonTypes.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\BusinessLogic\obj\Debug\BusinessLogic.pdb

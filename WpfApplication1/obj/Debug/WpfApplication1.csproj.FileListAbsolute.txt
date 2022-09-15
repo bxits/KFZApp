@@ -248,3 +248,32 @@ C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVV
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\BusinessLogic.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\CommonTypes.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\DataAccess.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\Mk.Log.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\Npgsql.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\Mono.Security.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\BusinessLogic.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\CommandHelper.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\CommonTypes.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\bin\Debug\DataAccess.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\WpfApplication1.csproj.AssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\WpfApplication1\obj\Debug\WpfApplication1.pdb

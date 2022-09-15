@@ -76,3 +76,17 @@ C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVV
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\DataAccess\bin\Debug\Mono.Security.dll
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\DataAccess\bin\Debug\CommonTypes.pdb
 C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\bin\Debug\CommonTypes.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\bin\Debug\Mk.DBConnector.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\bin\Debug\Mk.Log.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\bin\Debug\Npgsql.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\bin\Debug\Mono.Security.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\bin\Debug\CommonTypes.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Bx\Documents\_Pool\SAE\Architektur\MVVM\KFZ WPF BX - Async\DataAccess\obj\Debug\DataAccess.pdb

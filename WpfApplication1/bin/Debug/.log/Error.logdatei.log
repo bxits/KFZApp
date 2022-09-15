@@ -74,3 +74,11 @@
 -> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
 26:02:2021 13:14:04: SELECT * FROM kfz; | Thread-ID: 1
 -> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+15:09:2022 12:27:14: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+15:09:2022 12:28:56: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unknown database 'kfzka'>
+15:09:2022 12:32:17: SELECT * FROM kfz; | Thread-ID: 1
+-> MySql.Data <Table 'kfzka.kfz' doesn't exist>
+15:09:2022 12:32:34: SELECT * FROM kfz; | Thread-ID: 1
+-> MySql.Data <Table 'kfzka.kfz' doesn't exist>

@@ -2960,3 +2960,11 @@ SELECT * FROM kfz;
 SELECT * FROM kfz;
 [2021-03-08 11:35:40 Thread-Id 3]
 SELECT * FROM kfz;
+[2022-09-15 12:27:10 Thread-Id 1]
+SELECT * FROM kfz;
+[2022-09-15 12:28:56 Thread-Id 1]
+SELECT * FROM kfz;
+[2022-09-15 12:32:17 Thread-Id 1]
+SELECT * FROM kfz;
+[2022-09-15 12:32:34 Thread-Id 1]
+SELECT * FROM kfz;

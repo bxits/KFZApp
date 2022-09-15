@@ -26,7 +26,6 @@ namespace DataAccess
             }
             catch (Exception)
             {
-
                 IsConnected = false;
             }
 
