@@ -1,0 +1,10 @@
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\TestApp\bin\Debug\TestApp.exe.config
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\TestApp\bin\Debug\TestApp.exe
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\TestApp\bin\Debug\TestApp.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\TestApp\bin\Debug\CommonTypes.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\TestApp\bin\Debug\DataAccess.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\TestApp\bin\Debug\CommonTypes.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\TestApp\bin\Debug\DataAccess.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\TestApp\obj\Debug\TestApp.exe
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\TestApp\obj\Debug\TestApp.pdb

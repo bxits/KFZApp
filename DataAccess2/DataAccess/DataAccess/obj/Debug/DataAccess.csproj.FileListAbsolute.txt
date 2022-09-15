@@ -1,0 +1,6 @@
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\DataAccess\DataAccess\bin\Debug\DataAccess.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\DataAccess\DataAccess\bin\Debug\CommonTypes.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\DataAccess\DataAccess\bin\Debug\CommonTypes.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\DataAccess\DataAccess\obj\Debug\DataAccess.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\DataAccess2\DataAccess\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,250 @@
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\bin\Debug\BusinessLogic.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\bin\Debug\BusinessLogic.pdb
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\bin\Debug\Mk.Log.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\bin\Debug\MySql.Data.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\bin\Debug\Npgsql.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\WpfApplication1\bin\Debug\Mono.Security.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\App.g.cs
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\bin\Debug\BusinessLogic.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\bin\Debug\Mk.Log.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\bin\Debug\MySql.Data.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\bin\Debug\Npgsql.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\bin\Debug\Mono.Security.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\bin\Debug\BusinessLogic.pdb
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\Window1.g.cs
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\WpfApplication1\obj\Debug\Window1.baml
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\bin\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\bin\Debug\Mk.Log.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\bin\Debug\MySql.Data.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\bin\Debug\Npgsql.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\bin\Debug\Mono.Security.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\bin\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\App.g.cs
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\bin\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\bin\Debug\Mk.Log.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\bin\Debug\MySql.Data.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\bin\Debug\Npgsql.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\bin\Debug\Mono.Security.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\bin\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\App.g.cs
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\bin\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\bin\Debug\Mk.Log.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\bin\Debug\MySql.Data.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\bin\Debug\Npgsql.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\bin\Debug\Mono.Security.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\bin\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\App.g.cs
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\CommonTypes.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Mk.Log.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\MySql.Data.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Npgsql.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Mono.Security.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\CommonTypes.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\App.g.cs
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\DataAccess.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\DataAccess.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\BusinessLogic.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\CommonTypes.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\DataAccess.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Mk.Log.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\MySql.Data.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Npgsql.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Mono.Security.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\BusinessLogic.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\CommonTypes.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\bin\Debug\DataAccess.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\App.g.cs
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\MainWindow.baml
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\App.g.cs
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\BusinessLogic.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\CommonTypes.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\DataAccess.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Mk.Log.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\MySql.Data.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Npgsql.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\Mono.Security.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\BusinessLogic.pdb
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\CommonTypes.pdb
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\bin\Debug\DataAccess.pdb
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\MainWindow.baml
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\its\LFB\WPF\KFZ\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\BusinessLogic.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\CommonTypes.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\DataAccess.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\Mk.Log.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\MySql.Data.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\Npgsql.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\Mono.Security.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\BusinessLogic.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\CommonTypes.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\DataAccess.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\CommandHelper.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\WpfApplication1\bin\Debug\CommandHelper.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\BusinessLogic.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\CommonTypes.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\DataAccess.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\Mk.DBConnector.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\Mk.Log.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\MySql.Data.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\Npgsql.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\Mono.Security.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\BusinessLogic.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\CommandHelper.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\CommonTypes.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\bin\Debug\DataAccess.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete

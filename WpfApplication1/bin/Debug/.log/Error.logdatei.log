@@ -1,0 +1,76 @@
+05:02:2019 08:23:03: Connection failed... | Thread-ID: 9
+-> MySql.Data <Access denied for user 'root'@'localhost' (using password: NO)>
+05:02:2019 08:23:03: SELECT * FROM kfz; | Thread-ID: 9
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+11:12:2020 04:52:19: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unknown database 'kfzka'>
+11:12:2020 04:52:19: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+11:12:2020 04:52:39: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unknown database 'kfzka'>
+11:12:2020 04:52:39: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+11:12:2020 04:54:45: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unknown database 'kfzka'>
+11:12:2020 04:54:45: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+11:12:2020 04:55:51: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unknown database 'kfzka'>
+11:12:2020 04:55:51: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+12:01:2021 07:36:08: Connection failed... | Thread-ID: 1
+-> MySql.Data <Access denied for user 'root'@'localhost' (using password: YES)>
+12:01:2021 07:36:08: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+12:01:2021 07:37:16: Connection failed... | Thread-ID: 1
+-> MySql.Data <Access denied for user 'root'@'localhost' (using password: YES)>
+12:01:2021 07:37:16: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+12:01:2021 08:40:14: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unknown database 'kfz'>
+12:01:2021 08:40:14: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+12:01:2021 08:40:53: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unknown database 'kfz'>
+12:01:2021 08:40:53: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+12:01:2021 08:41:44: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unknown database 'kfz'>
+12:01:2021 08:41:44: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+22:01:2021 13:01:20:  | Thread-ID: 1
+-> MySql.Data <The CommandText property has not been properly initialized.>
+22:01:2021 14:04:22: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+22:01:2021 14:04:22: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+22:01:2021 14:05:07: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+22:01:2021 14:05:07: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+22:01:2021 14:07:35: UPDATE `kfz`
+                    SET
+                    `FahrgestellNr`=[198231729831],
+                    `Kennzeichen`=[S-KU-253],
+                    `Leistung`=[120],
+                    `Typ`=[SUV]
+                    WHERE 1 | Thread-ID: 1
+-> MySql.Data <You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[198231729831],
+                    `Kennzeichen`=[S-KU-253],
+             ...' at line 3>
+22:01:2021 14:13:12: UPDATE `kfz` SET `FahrgestellNr`=[34535435], `Kennzeichen`=[KA-FA-765], `Leistung`=[75], `Typ`=[Cabrioasdf] WHERE 2 | Thread-ID: 1
+-> MySql.Data <You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[34535435], `Kennzeichen`=[KA-FA-765], `Leistung`=[75], `Typ`=[Cabrioasdf] WH...' at line 1>
+22:01:2021 14:13:59: UPDATE `kfz` SET `FahrgestellNr`=[34535435], `Kennzeichen`=[KA-FA-765], `Leistung`=[75], `Typ`=[Cabrioffff] WHERE 2; | Thread-ID: 1
+-> MySql.Data <You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[34535435], `Kennzeichen`=[KA-FA-765], `Leistung`=[75], `Typ`=[Cabrioffff] WH...' at line 1>
+22:01:2021 14:14:38: UPDATE `kfz` SET `FahrgestellNr`=[34535435], `Kennzeichen`=[KA-FA-765], `Leistung`=[75], `Typ`=[Cabrioffff] WHERE 2; | Thread-ID: 1
+-> MySql.Data <You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[34535435], `Kennzeichen`=[KA-FA-765], `Leistung`=[75], `Typ`=[Cabrioffff] WH...' at line 1>
+22:01:2021 14:16:00: UPDATE kfz SET FahrgestellNr=[34535435], Kennzeichen=[KA-FA-765], Leistung=[75], Typ=[Cabrioasdf] WHERE 2; | Thread-ID: 1
+-> MySql.Data <You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[34535435], Kennzeichen=[KA-FA-765], Leistung=[75], Typ=[Cabrioasdf] WHERE 2' at line 1>
+22:01:2021 14:16:45: UPDATE kfz SET FahrgestellNr=[34535435], Kennzeichen=[KA-FA-765], Leistung=[75], Typ=[Cabrioasdf] WHERE 2; | Thread-ID: 1
+-> MySql.Data <You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[34535435], Kennzeichen=[KA-FA-765], Leistung=[75], Typ=[Cabrioasdf] WHERE 2' at line 1>
+22:01:2021 14:18:36: UPDATE kfz SET FahrgestellNr=34535435, Kennzeichen=KA-FA-765, Leistung=75, Typ=CabrioAAAAA WHERE 2; | Thread-ID: 1
+-> MySql.Data <Unknown column 'KA' in 'field list'>
+26:02:2021 13:14:04: Connection failed... | Thread-ID: 1
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+26:02:2021 13:14:04: SELECT * FROM kfz; | Thread-ID: 1
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>

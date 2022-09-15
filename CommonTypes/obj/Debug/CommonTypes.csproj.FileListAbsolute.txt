@@ -1,0 +1,33 @@
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\CommonTypes\bin\Debug\CommonTypes.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\CommonTypes\bin\Debug\CommonTypes.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\CommonTypes\obj\Debug\CommonTypes.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\CommonTypes\obj\Debug\CommonTypes.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\bin\Debug\CommonTypes.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\bin\Debug\CommonTypes.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\bin\Debug\CommonTypes.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\bin\Debug\CommonTypes.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.csprojAssemblyReference.cache
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.csproj.CoreCompileInputs.cache
+D:\its\LFB\WPF\KFZ\KFZ WPF\CommonTypes\bin\Debug\CommonTypes.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\CommonTypes\bin\Debug\CommonTypes.pdb
+D:\its\LFB\WPF\KFZ\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.csproj.CoreCompileInputs.cache
+D:\its\LFB\WPF\KFZ\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\CommonTypes\obj\Debug\CommonTypes.csprojAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\CommonTypes\obj\Debug\CommonTypes.csprojAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\CommonTypes\obj\Debug\CommonTypes.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\CommonTypes\obj\Debug\CommonTypes.pdb

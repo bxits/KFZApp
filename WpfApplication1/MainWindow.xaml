@@ -1,0 +1,53 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        xmlns:ViewModels="clr-namespace:WpfApplication1.ViewModels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="400">
+    <Window.DataContext>
+        <ViewModels:MainViewModel x:Name="mvm"></ViewModels:MainViewModel>
+    </Window.DataContext>
+    <Grid Margin="5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+           
+        </Grid.RowDefinitions>
+
+        <ListBox Name="lbKFZ" ItemsSource="{Binding KFZObservableCollection}" SelectedItem="{Binding SelectedKFZ}" Grid.ColumnSpan="2" Grid.RowSpan="2">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox x:Name="cbSelected" IsChecked="{Binding Selected, Mode=TwoWay}" />
+                        <Label Content="{Binding PId}"></Label>
+                        <Label Content="{Binding PKennzeichen}"></Label>
+                        <Label Content="{Binding PTyp}"></Label>
+                        <Label Content="{Binding PLeistung}"></Label>
+                        <Label Content="{Binding PFahrgestNr}"></Label>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <StackPanel Orientation="Vertical" Grid.Column="2">
+            <Label Content="{Binding SelectedKFZ.PId}"></Label>
+            <TextBox Text="{Binding SelectedKFZ.PKennzeichen}"></TextBox>
+            <TextBox Text="{Binding SelectedKFZ.PTyp}"></TextBox>
+            <TextBox Text="{Binding SelectedKFZ.PLeistung}"></TextBox>
+            <TextBox Text="{Binding SelectedKFZ.PFahrgestNr}"></TextBox>
+            <Button Content="Speichern" Command="{Binding AktualisierenCommand}"></Button>
+            <Button Content="Ausgewählte löschen" Command="{Binding DeleteSelectedCommand}"></Button>
+            <Button Content="Neu" Command="{Binding NewKfzCommand}"></Button>
+            <Button Content="Daten holen" Command="{Binding DatenHolenCommand}"></Button>
+            <Button Content="Start Auto-Refresh" Command="{Binding RefreshCommand}"></Button>
+        </StackPanel>
+
+       
+    </Grid>
+</Window>

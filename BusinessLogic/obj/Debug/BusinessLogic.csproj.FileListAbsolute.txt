@@ -1,0 +1,127 @@
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\BusinessLogic\bin\Debug\Mk.Log.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\BusinessLogic\bin\Debug\MySql.Data.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\BusinessLogic\bin\Debug\Npgsql.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1\BusinessLogic\bin\Debug\Mono.Security.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\BusinessLogic\bin\Debug\Mk.Log.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\BusinessLogic\bin\Debug\MySql.Data.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\BusinessLogic\bin\Debug\Npgsql.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\BusinessLogic\bin\Debug\Mono.Security.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Klassen\SJ.2018.2019\E2FI3\WpfApplication1 - 2\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\BusinessLogic\bin\Debug\Mk.Log.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\BusinessLogic\bin\Debug\MySql.Data.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\BusinessLogic\bin\Debug\Npgsql.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\BusinessLogic\bin\Debug\Mono.Security.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\Klausuren\E3FI3.18.19.SAE.1\Solution\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\BusinessLogic\bin\Debug\Mk.Log.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\BusinessLogic\bin\Debug\MySql.Data.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\BusinessLogic\bin\Debug\Npgsql.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\BusinessLogic\bin\Debug\Mono.Security.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Solution\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\BusinessLogic\bin\Debug\Mk.Log.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\BusinessLogic\bin\Debug\MySql.Data.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\BusinessLogic\bin\Debug\Npgsql.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\BusinessLogic\bin\Debug\Mono.Security.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\Klausuren\E2FI3.18.19.SAE.2\Ausgeteilt - U\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\CommonTypes.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\DataAccess.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Mk.Log.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\MySql.Data.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Npgsql.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Mono.Security.dll
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\CommonTypes.pdb
+E:\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\CommonTypes.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\DataAccess.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Mk.Log.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\MySql.Data.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Npgsql.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Mono.Security.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\CommonTypes.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\its\Unterricht\SAE\C#\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\CommonTypes.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\DataAccess.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Mk.Log.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\MySql.Data.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Npgsql.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\Mono.Security.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\CommonTypes.pdb
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\its\LFB\WPF\KFZ\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\CommonTypes.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\Mk.Log.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\MySql.Data.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\Npgsql.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\Mono.Security.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\CommonTypes.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\_Unterricht\Sj2021\E2FI3\KFZ WPF\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\CommonTypes.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\Mk.Log.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\MySql.Data.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\Npgsql.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\Mono.Security.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\CommonTypes.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Architektur\MVVM\KFZ WPF BX\BusinessLogic\obj\Debug\BusinessLogic.pdb
